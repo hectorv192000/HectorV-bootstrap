@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&family=Saira+Extra+Condensed:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+/*font-family: 'Open Sans', sans-serif;*/
+/*font-family: 'Open Sans', sans-serif;*/
+/*font-family: 'Saira Extra Condensed', sans-serif;*/
+/*Aqui inician los estilos del hader*/
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.logo{
+    height: 80px;
+}
+.nome{
+    font-size: 2.9rem;
+}
+
+
+
+/*.nav-link:hover{
+    font-size: 20px;
+    background-color: rgb(31, 30, 30);
+}*/
+/*Aqui terminan los estilos del heder*/
+/*Inician los estilos del primer section*/
+
+/*body*/
+body{
+    background: url(../img/oni2.png) no-repeat fixed;
+    background-size: cover ;
+}
+
+.glass{
+    background-color: rgba(255, 255, 255, 0.096);
+    backdrop-filter: blur(3px);
+}
+
+
